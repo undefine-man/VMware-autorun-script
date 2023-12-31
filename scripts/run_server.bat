@@ -1,0 +1,1 @@
+"C:\Program Files\VMware\VMware Workstation\vmrun.exe" -T ws start "C:\Users\undef\Documents\Virtual Machines\Debian Server\Debian Server.vmx" nogui
